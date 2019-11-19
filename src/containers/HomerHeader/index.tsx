@@ -17,7 +17,7 @@ const HomeHeader = () => (
     />
     <Button
       size="18px"
-      text="Conheça nosso cursos"
+      text="Conheça nossos cursos"
       link="/login"
       color="transparent"
       padding="0.4rem 0rem"
